@@ -8,6 +8,7 @@ h1 {
   justify-content: center;
   text-align: center;
   font-family: Helvetica;
+  font-size: 3em;
 }
 
 .content {
@@ -53,6 +54,7 @@ p.title{
   font-family: Helvetica;
   color: white;
   text-align: center;
+  font-size: 125%;
 }
 
 .menu-first{
