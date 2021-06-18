@@ -2,10 +2,6 @@
 * {
   box-sizing: border-box;
 }
-/* Simple Responsive Framework. */
-.row {
-  width: 100%;
-}
 
 h1 {
   margin-bottom: 15px;
@@ -26,6 +22,10 @@ p.card-content {
   margin: 0.8em;
 }
 
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
 
 div.menu-card{
   border: 1px solid black;
