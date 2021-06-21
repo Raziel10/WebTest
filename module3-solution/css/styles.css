@@ -1,0 +1,21 @@
+h1{
+    font-family: Helvetica;
+}
+.menu-header{
+    font-size: 2em;
+    color: white;
+    background-color:gray;
+    margin: 5px;
+    width: auto;
+}
+.menu-item {
+    color: white;
+    background-color:gray;
+    border-color: black;
+    border-width: 1px;
+}
+
+.item-description{
+    font-size:1em;
+    margin: 10px;
+}
